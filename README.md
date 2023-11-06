@@ -7,7 +7,6 @@ Expense Tracker is a simple Python command-line application that allows you to k
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
-- [License](#license)
 
 ## Prerequisites
 
@@ -58,7 +57,3 @@ Here is a brief overview of the key functions and their responsibilities in `exp
 Make sure to create an `expense.csv` file in the project directory to store the recorded expenses.
 
 The `expense.py` file defines the `Expense` class, which stores information about individual expenses, including the name, category, and amount.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You are free to use and modify the code as per the terms of the license.
